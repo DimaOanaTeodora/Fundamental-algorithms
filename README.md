@@ -1,7 +1,7 @@
 # Graphs in Python :snake:
 :atom:*Fundamental Algorithms Course*	:atom:
 
-<li>BFS & DFS
+<li>BFS & DFS</li>
   - minimum cycles / circuits / roads in unweighted graphs
   - determination of the connected components, of a partial shaft of a given graph
   - edges and critical points, biconnected components
