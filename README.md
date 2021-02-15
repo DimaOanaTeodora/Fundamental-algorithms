@@ -1,5 +1,5 @@
 # Graphs in Python :snake:
-:atom:*Fundamental Algorithms Course*	:atom:
+:atom:*Fundamental Algorithms Course & Labs*	:atom:
 
 1.BFS & DFS
    - minimum cycles / circuits / roads in unweighted graphs
